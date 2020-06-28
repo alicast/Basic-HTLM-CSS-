@@ -1,6 +1,5 @@
 # Sobre
-Projeto básico, página Home com layout que lembra um artigo e página secundária com caixas flutuantes sombreadas.
-Menu, Títulos e caixas responsivos.
+Projeto básico, focado em criar um Menu e alguns elementos com propriedades diferentes responsivos utilizando apenas HTML e CSS básicos, página Home com layout que lembra um artigo e página secundária com caixas flutuantes sombreadas.
 ## Tecnologias Utilizadas
 - HTML
 - CSS
